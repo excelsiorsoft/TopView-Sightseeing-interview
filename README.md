@@ -1,4 +1,3 @@
-# TopView-Sightseeing-interview
 
 # TopView Sightseeing Android Exercise
 
